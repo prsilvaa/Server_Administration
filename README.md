@@ -31,19 +31,25 @@
 
 <div align="center">
     <h3>Server Configurations</h3>
-    <img src="server.png" alt="Server configurations" width="600">
+    <img src="server.png" alt="Server configurations" height="80%" width="80%">
     <p><p>Server dashboard showing all installed components.</p>
 </p>
 </div>
 
 <div align="center">
     <h3>Active Directory Management</h3>
-    <img src="Active_directory.png" alt="Active Directory Users and Computers" width="600">
+    <img src="active_directory.png" alt="Active Directory Users and Computers" height="80%" width="80%">
     <p>Managing users and delegating control using Active Directory.</p>
 </div>
 
 <div align="center">
     <h3>PowerShell Automation</h3>
-    <img src="Powershell.png" alt="PowerShell Command Window" width="600">
+    <img src="powershell.png" alt="PowerShell Command Window" height="80%" width="80%">
     <p>Automated bulk user imports using PowerShell scripts from https://github.com/RobBridgeman/ADImporter.</p>
+</div>
+
+<div align="center">
+    <h3>Windows Deployment Services (WDS)</h3>
+    <img src="WDS.png" alt="Windows Deployment Services Console" height="80%" width="80%">
+    <p>Configuring and managing Windows Deployment Services for network-based OS installations.</p>
 </div>
