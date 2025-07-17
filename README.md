@@ -5,7 +5,7 @@
 
 <h2>Tools Used</h2>
 <ul>
-    <li>Windows Server 2019</li>
+    <li>Windows Server 2022</li>
     <li>Active Directory</li>
     <li>DHCP and DNS</li>
     <li>Group Policy Management</li>
@@ -30,19 +30,20 @@
 <p>I successfully configured a functional Windows Server environment. Key achievements included importing large numbers of users via PowerShell, applying security through DNSSEC, setting up DHCP scopes, managing updates with WSUS, deploying system images with WDS, and controlling user access through Group Policies and delegation. This project improved my server management, automation, and troubleshooting skills, preparing me for real-world IT administration roles.</p>
 
 <div align="center">
+    <h3>Server Configurations</h3>
+    <img src="server.png" alt="Server configurations" width="600">
+    <p><p>Server dashboard showing all installed components.</p>
+</p>
+</div>
+
+<div align="center">
     <h3>Active Directory Management</h3>
-    <img src="ad_users.png" alt="Active Directory Users and Computers" width="600">
+    <img src="Active_directory.png" alt="Active Directory Users and Computers" width="600">
     <p>Managing users and delegating control using Active Directory.</p>
 </div>
 
 <div align="center">
-    <h3>DHCP Configuration</h3>
-    <img src="dhcp_console.png" alt="DHCP Management Console" width="600">
-    <p>Setting up and managing DHCP scopes and leases.</p>
-</div>
-
-<div align="center">
     <h3>PowerShell Automation</h3>
-    <img src="powershell_import.png" alt="PowerShell Command Window" width="600">
-    <p>Automating bulk user imports with PowerShell commands.</p>
+    <img src="Powershell.png" alt="PowerShell Command Window" width="600">
+    <p>Automated bulk user imports using PowerShell scripts from https://github.com/RobBridgeman/ADImporter.</p>
 </div>
